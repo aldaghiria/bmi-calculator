@@ -39,7 +39,7 @@ input{
     padding: 5px;
 }
 
-#bmiResult{
+#bmiResult, #bmiNote{
   font-size: 20px;
   font-weight: bold;
 }
